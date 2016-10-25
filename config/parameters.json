@@ -1,0 +1,10 @@
+{
+    "i18n.locale": {
+        "en_US": {
+            "name": "English (US)",
+            "format.date.form": "Y/m/d",
+            "full": "en_US.utf8",
+            "translator.script.plural": "$n != 1"
+        }
+    }
+}
